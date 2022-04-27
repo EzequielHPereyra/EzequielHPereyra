@@ -19,7 +19,7 @@
 
 <p align="center">● 🎮 Love boardgames & movies</b></p>
 
-<p align="center">● ⚡ Fun fact: <b>Dreamer & Escorpion</b></p>
+<p align="center">● ⚡ Fun fact: Dreamer & Escorpion </p>
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -50,3 +50,7 @@
      </a>    
      <p align="center"><img src="https://media1.giphy.com/media/kUTME7ABmhYg5J3psM/giphy.gif?cid=ecf05e47azahf3x0ek86kj2jllwb8t0w3qwqt8fxm1hdr8bm&rid=giphy.gif&ct=g" width="200px">
 </p>
+
+ <h3 align="center"> Contact:</h3>
+    
+<p align="center">● ezetalar3@gmail.com </p>
