@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Ezequiel!</h1>
-<hr>
+
 <img src="https://i.imgur.com/HXRPYL7.jpg" title="source: imgur.com" />
-<br>
 
 [![Mail Badge](https://img.shields.io/badge/-Ezepereyra-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ezetalar3@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-EzePereyra-rgb(36,%2041,%2046)?style=flat&labelColor=rgb(36,%2041,%2046)&logo=github&logoColor=white)](https://github.com/EzequielHPereyra)
