@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Ezequiel!</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> I'm Ezequiel!</h1>
 
 <img src="https://i.imgur.com/HXRPYL7.jpg" title="source: imgur.com" />
 
@@ -8,7 +8,7 @@
 
 <hr>
 
-<p>● <img src="https://media1.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif?cid=ecf05e47b7wjtfxqyvdp0ln1c4orrthqelw8y8epv87vyt0o&rid=giphy.gif&ct=s" width="30px">I’m currently learning <b>React JS</b>
+<p>● <img src="https://media1.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif?cid=ecf05e47b7wjtfxqyvdp0ln1c4orrthqelw8y8epv87vyt0o&rid=giphy.gif&ct=s" width="5px">I’m currently learning <b>React JS</b>
 <p>●<img src="https://media4.giphy.com/media/dYwbW1wJp84guprgoI/giphy.gif?cid=ecf05e47dlveapzko4suywkfyq2ingrewjoxkzpo1fxayt3y&rid=giphy.gif&ct=s" width="30px">  All of my projects are available at <a href="https://github.com/EzequielHPereyra?tab=repositories" target="_blank">Repositories</a></p>
 <p >● &#128021 I have one dog: <b> Annie </b></p>
 <p >● <img src="https://media2.giphy.com/media/KXw1FeMAif9IDFMsqV/200w.webp?cid=ecf05e47ulnphxuyd0af57uhm0vrx54qzniurhdjwad1o6xa&rid=200w.webp&ct=s" width="30px"> Travel & music like religion</p>
