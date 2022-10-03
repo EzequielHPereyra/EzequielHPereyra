@@ -8,7 +8,7 @@
 
 <hr>
 
-<p>● 💻 I’m currently learning <b>Angula - Net.core</b>
+<p>● 💻 I’m currently learning <b>Angular - Net.core</b>
 <p>● 💡 All of my projects are available at <a href="https://github.com/EzequielHPereyra?tab=repositories" target="_blank">Repositories</a></p>
 <p >● &#128021 I have one dog: <b> Annie </b></p>
 <p >● <img src="https://media2.giphy.com/media/KXw1FeMAif9IDFMsqV/200w.webp?cid=ecf05e47ulnphxuyd0af57uhm0vrx54qzniurhdjwad1o6xa&rid=200w.webp&ct=s" width="30px"> Travel & music like religion</p>
