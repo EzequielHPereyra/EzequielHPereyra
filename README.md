@@ -4,7 +4,7 @@
 
 [![Mail Badge](https://img.shields.io/badge/-Ezepereyra-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ezetalar3@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-EzePereyra-rgb(36,%2041,%2046)?style=flat&labelColor=rgb(36,%2041,%2046)&logo=github&logoColor=white)](https://github.com/EzequielHPereyra)
-[![Linkedin Badge](https://img.shields.io/badge/-Ezequiel-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezehpereyra/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ezequiel-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequielhpereyra/)
 
 <hr>
 
